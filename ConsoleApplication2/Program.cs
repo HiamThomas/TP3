@@ -136,7 +136,7 @@ namespace ConsoleApplication2
             m.WaitOne();
             try
             {
-                Console.WriteLine(c);
+                Console.Write(c);
             }
             finally
             {
