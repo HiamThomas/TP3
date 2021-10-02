@@ -80,8 +80,7 @@ namespace ConsoleApplication2
             Console.WriteLine("-----------------------------------------------------------------------------------------");
             
             Console.WriteLine("Create a simple function that create 3 threads : (enlever les commentaires de l'appel de la fonction)");
-            //Enlever les commentaire pour executer l'éxercice 2.
-            //CreateThread();
+            CreateThread();
         }
         
         public static void CreateThread()
